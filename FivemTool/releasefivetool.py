@@ -4,8 +4,6 @@
 
 # si vous avez des recommandations pour rajouter des fonctions merci de me les soumettre en message sur discord
 
-# evitez de trop partager le script 
-
 # ce script ne sers pas a vous spoofer !, il vous sert juste a vous aider a vous spoof etc, (un spoof arrive bientot)
 
 #soyez indulgents, c'est mon premier script 
