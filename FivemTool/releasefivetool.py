@@ -1,12 +1,3 @@
-# crée par discord : lejuan1
-
-# j'ai obfusqué ce code tres legerement pour preserver sa conception
-
-# si vous avez des recommandations pour rajouter des fonctions merci de me les soumettre en message sur discord
-
-# ce script ne sers pas a vous spoofer !, il vous sert juste a vous aider a vous spoof etc, (un spoof arrive bientot)
-
-#soyez indulgents, c'est mon premier script 
 _H='Cleaner'
 _G='DigitalEntitlements'
 _F='~\\AppData\\Local'
@@ -94,3 +85,4 @@ if __name__=='__main__':
 	folder_to_monitor=os.path.join(os.getenv(_E,os.path.expanduser(_F)),_G)
 	if not is_admin():run_as_admin()
 	else:folder_monitor=FolderMonitor(folder_to_monitor,ui_update_callback=lambda x:app.update_ui_with_deletion(x));app=App(folder_monitor);app.mainloop()
+
